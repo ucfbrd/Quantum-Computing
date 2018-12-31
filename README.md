@@ -88,7 +88,7 @@ IBM Q
 [Link](https://www.research.ibm.com/ibm-q/)  
 [Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397)  
 [Game](https://helloquantum.mybluemix.net/)  
-Google 
+Google  
 [Link](https://ai.google/research/teams/applied-science/quantum-ai/)  
 [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)  
 [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
