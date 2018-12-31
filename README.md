@@ -92,9 +92,7 @@ Google
 [Link](https://ai.google/research/teams/applied-science/quantum-ai/)  
 [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)  
 [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
-Microsoft  
-[Link](https://www.microsoft.com/en-us/quantum/)  
-[Video](https://youtu.be/F_Riqjdh2oM)  
+Microsoft [Link](https://www.microsoft.com/en-us/quantum/) [Video](https://youtu.be/F_Riqjdh2oM)  
 D-Wave  
 [Link](https://www.dwavesys.com/)  
 [Video](https://www.youtube.com/watch?v=60OkanvToFI)  
