@@ -94,7 +94,7 @@ Quantum Networking
 
 ### Classes 
 
-Caltech [John Preskill](http://www.theory.caltech.edu/people/preskill/ph229/) [Richard Feynman](http://www.feynmanlectures.caltech.edu/III_toc.html)  
+Caltech [John Preskill](http://www.theory.caltech.edu/people/preskill/ph229/), [Richard Feynman](http://www.feynmanlectures.caltech.edu/III_toc.html)  
 UC Berkeley [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/quantum.html)  
 MIT [Quantum Information courses](http://qis.mit.edu/courses.php)  
 Harvard [Prineha Narang](https://narang.seas.harvard.edu/classes/es-170-engineering-quantum-mechanics)   
