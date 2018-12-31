@@ -1,7 +1,5 @@
 # Quantum Computing
 
-## Table of contents
-
 ### Quantum
 *‘We have two contradictory pictures of reality; separately neither of them fully explains the phenomena of light, but together they do.’ Einstein*
 
