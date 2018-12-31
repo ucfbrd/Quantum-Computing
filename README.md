@@ -84,21 +84,11 @@ Applications
 ### Companies
 
 Quantum Computing  
-IBM Q   
-[Link](https://www.research.ibm.com/ibm-q/)  
-[Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397)  
-[Game](https://helloquantum.mybluemix.net/)  
-Google  
-[Link](https://ai.google/research/teams/applied-science/quantum-ai/)  
-[Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)  
-[Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
+IBM Q  [Link](https://www.research.ibm.com/ibm-q/) [Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397) [Game](https://helloquantum.mybluemix.net/)  
+Google [Link](https://ai.google/research/teams/applied-science/quantum-ai/) [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR) [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
 Microsoft [Link](https://www.microsoft.com/en-us/quantum/) [Video](https://youtu.be/F_Riqjdh2oM)  
-D-Wave  
-[Link](https://www.dwavesys.com/)  
-[Video](https://www.youtube.com/watch?v=60OkanvToFI)  
-Rigetti Computing  
-[Link](https://www.rigetti.com/)  
-[Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
+D-Wave [Link](https://www.dwavesys.com/) [Video](https://www.youtube.com/watch?v=60OkanvToFI)  
+Rigetti Computing [Link](https://www.rigetti.com/) [Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
 
 Quantum Networking  
 [MagiQ Technologies](https://www.magiqtech.com/)  
@@ -106,15 +96,10 @@ Quantum Networking
 
 ### Classes 
 
-Caltech  
-[John Preskill](http://www.theory.caltech.edu/people/preskill/ph229/)  
-[Richard Feynman](http://www.feynmanlectures.caltech.edu/III_toc.html)  
-UC Berkeley  
-[Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/quantum.html)  
-MIT  
-[Quantum Information courses](http://qis.mit.edu/courses.php)  
-Harvard  
-[Prineha Narang](https://narang.seas.harvard.edu/classes/es-170-engineering-quantum-mechanics)   
+Caltech [John Preskill](http://www.theory.caltech.edu/people/preskill/ph229/) [Richard Feynman](http://www.feynmanlectures.caltech.edu/III_toc.html)  
+UC Berkeley [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/quantum.html)  
+MIT [Quantum Information courses](http://qis.mit.edu/courses.php)  
+Harvard [Prineha Narang](https://narang.seas.harvard.edu/classes/es-170-engineering-quantum-mechanics)   
 
 
 [MIT](https://choosealicense.com/licenses/mit/) License
