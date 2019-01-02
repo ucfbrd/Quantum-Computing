@@ -89,15 +89,15 @@ Quantum
 ### Companies
 
 Quantum Computing  
-[IBM Q](https://www.research.ibm.com/ibm-q/) [Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397) [Game](https://helloquantum.mybluemix.net/)  
-[Google](https://ai.google/research/teams/applied-science/quantum-ai/) [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR) [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
-[Microsoft](https://www.microsoft.com/en-us/quantum/) [Video](https://youtu.be/F_Riqjdh2oM)  
-[D-Wave](https://www.dwavesys.com/) [Video](https://www.youtube.com/watch?v=60OkanvToFI)  
-[Rigetti Computing](https://www.rigetti.com/) [Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
+IBM Q  [Link](https://www.research.ibm.com/ibm-q/) [Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397) [Game](https://helloquantum.mybluemix.net/)  
+Google [Link](https://ai.google/research/teams/applied-science/quantum-ai/) [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR) [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
+Microsoft [Link](https://www.microsoft.com/en-us/quantum/) [Video](https://youtu.be/F_Riqjdh2oM)  
+D-Wave [Link](https://www.dwavesys.com/) [Video](https://www.youtube.com/watch?v=60OkanvToFI)  
+Rigetti Computing [Link](https://www.rigetti.com/) [Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
 
 Quantum Networking  
-[MagiQ Technologies](https://www.magiqtech.com/)  
-[Quintessence Labs](https://www.quintessencelabs.com)  
+MagiQ Technologies [Link](https://www.magiqtech.com/)  
+Quintessence Labs [Link](https://www.quintessencelabs.com)  
 
 ### Classes 
 
