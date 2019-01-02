@@ -28,19 +28,23 @@ Quantum
 [Quanta](https://archive.org/details/evolutionofphysi033254mbp)  
 [Quantum Information](http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf)  
 [The Mathematics of Entanglement](https://arxiv.org/pdf/1604.01790.pdf)  
+
 Quantum Computing  
 [NASA perspective on quantum computing](https://www.sciencedirect.com/science/article/pii/S0167819116301326)  
+
 Quantum Networking  
 [Wavelength-multiplexed quantum communication network](https://www.nature.com/articles/s41586-018-0766-y)  
 [DARPA quantum network](https://arxiv.org/ftp/quant-ph/papers/0412/0412029.pdf)  
 [Satellite-to-ground quantum key distribution](https://arxiv.org/ftp/arxiv/papers/1707/1707.00542.pdf)  
 [Quantum key distribution in backbone fiber network](https://arxiv.org/pdf/1709.10046.pdf)  
+
 Quantum Algorithms  
 [Shor’s Quantum factoring algorithm](https://arxiv.org/pdf/quant-ph/9508027v2.pdf)  
 [Lecture on Shor’s algorithm](https://arxiv.org/pdf/quant-ph/0010034.pdf)  
 [Quantum Approximate Optimization Algorithm (QAOA)](https://arxiv.org/pdf/1411.4028.pdf)  
 [Extension to the QAOA, the Quantum Alternating Operator Ansatz](https://arxiv.org/pdf/1709.03489.pdf)  
 [Variational quantum eigensolver (VQE)](https://arxiv.org/pdf/1304.3061.pdf)  
+
 Quantum Learning  
 [Quantum Machine Learning](https://arxiv.org/pdf/1611.09347.pdf)  
 [Quantum Neuron, for ML on quantum computers](https://arxiv.org/pdf/1711.11240.pdf)  
@@ -52,6 +56,7 @@ Quantum Learning
 [Unsupervised Generative Modeling](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031012)   
 [QNN on IBM Q](https://arxiv.org/pdf/1811.02266.pdf)  
 [Quantum Deep Learning](https://arxiv.org/pdf/1412.3489.pdf)  
+
 Applications  
 [Low-depth quantum simulation](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.011044)  
 [IBM Q to electronic structures of molecules](https://www.nature.com/articles/nature23879)  
@@ -60,6 +65,7 @@ Applications
 
 ### Videos 
 
+Quantum Computing
 [Quantum Computers](https://www.youtube.com/watch?v=JhHMJCUmq28)  
 [The Mathematics of Quantum Computers](https://youtu.be/IrbJYsep45E)  
 [How Does a Quantum Computer Work?](https://www.youtube.com/watch?v=g_IaVepNDT4)  
@@ -69,6 +75,7 @@ Applications
 [Quantum Instruction Set](https://www.youtube.com/watch?v=ZN0lhYU1f5Q)  
 [Quantum Computing Use](https://www.youtube.com/watch?v=Xtye-b5HphE)  
 
+Quantum
 [Quantum Mechanics](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1)  
 [Quantum Field Theory](https://www.youtube.com/playlist?list=PLsPUh22kYmNBpDZPejCHGzxyfgitj26w9)  
 [Quantum Vortices and Superconductivity](https://youtu.be/ZY47bVu-0Bs)  
@@ -89,8 +96,8 @@ D-Wave [Link](https://www.dwavesys.com/) [Video](https://www.youtube.com/watch?v
 Rigetti Computing [Link](https://www.rigetti.com/) [Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
 
 Quantum Networking  
-[MagiQ Technologies](https://www.magiqtech.com/)  
-[Quintessence Labs](https://www.quintessencelabs.com)  
+MagiQ Technologies [Link](https://www.magiqtech.com/)  
+Quintessence Labs [Link](https://www.quintessencelabs.com)  
 
 ### Classes 
 
