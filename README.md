@@ -65,7 +65,7 @@ Applications
 
 ### Videos 
 
-Quantum Computing
+Quantum Computing  
 [Quantum Computers](https://www.youtube.com/watch?v=JhHMJCUmq28)  
 [The Mathematics of Quantum Computers](https://youtu.be/IrbJYsep45E)  
 [How Does a Quantum Computer Work?](https://www.youtube.com/watch?v=g_IaVepNDT4)  
@@ -75,7 +75,7 @@ Quantum Computing
 [Quantum Instruction Set](https://www.youtube.com/watch?v=ZN0lhYU1f5Q)  
 [Quantum Computing Use](https://www.youtube.com/watch?v=Xtye-b5HphE)  
 
-Quantum
+Quantum  
 [Quantum Mechanics](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1)  
 [Quantum Field Theory](https://www.youtube.com/playlist?list=PLsPUh22kYmNBpDZPejCHGzxyfgitj26w9)  
 [Quantum Vortices and Superconductivity](https://youtu.be/ZY47bVu-0Bs)  
@@ -89,15 +89,15 @@ Quantum
 ### Companies
 
 Quantum Computing  
-IBM Q  [Link](https://www.research.ibm.com/ibm-q/) [Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397) [Game](https://helloquantum.mybluemix.net/)  
-Google [Link](https://ai.google/research/teams/applied-science/quantum-ai/) [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR) [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
-Microsoft [Link](https://www.microsoft.com/en-us/quantum/) [Video](https://youtu.be/F_Riqjdh2oM)  
-D-Wave [Link](https://www.dwavesys.com/) [Video](https://www.youtube.com/watch?v=60OkanvToFI)  
-Rigetti Computing [Link](https://www.rigetti.com/) [Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
+[IBM Q](https://www.research.ibm.com/ibm-q/) [Playlist](https://www.youtube.com/playlist?list=PL0VD16H1q5IO8uF7Twp44aeLqKpLXG397) [Game](https://helloquantum.mybluemix.net/)  
+[Google](https://ai.google/research/teams/applied-science/quantum-ai/) [Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR) [Video](https://www.youtube.com/watch?v=CMdHDHEuOUE)  
+[Microsoft](https://www.microsoft.com/en-us/quantum/) [Video](https://youtu.be/F_Riqjdh2oM)  
+[D-Wave](https://www.dwavesys.com/) [Video](https://www.youtube.com/watch?v=60OkanvToFI)  
+[Rigetti Computing](https://www.rigetti.com/) [Video](https://www.youtube.com/watch?v=PN7mPYcWFKg)  
 
 Quantum Networking  
-MagiQ Technologies [Link](https://www.magiqtech.com/)  
-Quintessence Labs [Link](https://www.quintessencelabs.com)  
+[MagiQ Technologies](https://www.magiqtech.com/)  
+[Quintessence Labs](https://www.quintessencelabs.com)  
 
 ### Classes 
 
